@@ -1,0 +1,27 @@
+Aula Javascript - 10 
+
+ESTRUTURAS DE DADOS
+
+ - Lista
+ - FIFO = (fila(o primeiro a chegar e o primeiro a sair))
+ - LIFO = (pilha(o ultimo a entrar na pilha e o primeiro a sair))
+ - Árvore = (uma arvore de diretorios por exemplo)
+ - Tabela = (Organizar os dados entre linhas e colunas)
+ 
+
+Estruturas de dados básicas:
+ - INT
+ - REAL
+ - LETTER
+ - BOL
+
+Variáveis e Contantes:
+  rotular dados
+
+Operações:
+ -Logicás
+ - Atribuições
+ - Aritimeticas
+ - Relacional
+
+
