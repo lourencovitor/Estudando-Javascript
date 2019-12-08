@@ -1,0 +1,28 @@
+v = verdadeiro;
+f = falso;
+
+v e v -> v
+
+v e f -> f
+
+f e v -> f
+
+-----------------------
+
+v ou ? -> v
+
+f ou v -> v
+
+f ou f -> f
+
+-----------------------
+
+v xor v -> f
+v xor f -> f
+f xor v -> f
+f xor f -> f
+
+------------------------
+
+!v -> f
+!f -> v
